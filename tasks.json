@@ -1,0 +1,1 @@
+{"tasks":[{"sec":0,"output":"/home/jammnews/split","input":"/home/jammnews/news.wav","min":0,"hour":0,"repeat":false,"action":"split","minSilenceLength":100,"silenceBorder":-39},{"sec":0,"output":"/home/jammnews/split","input":"/home/jammnews/news.wav","min":0,"hour":1,"repeat":false,"action":"split","minSilenceLength":100,"silenceBorder":-30}]}
